@@ -8,7 +8,7 @@
 
 ## Tela de login
 
-![Tela_login](https://github.com/fernando-albsilva/LasalleJava2020.2github/blob/master/ProtitipoTela/TelaLogin.png)  
+![Tela_login](https://github.com/fernando-albsilva/JavaTrabalhoAcademicoCRUDav2github/blob/master/ProtitipoTela/TelaLogin.png)  
 
 ## Tela Inicial
 
