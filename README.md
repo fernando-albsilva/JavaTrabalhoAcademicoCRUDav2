@@ -8,7 +8,7 @@
 
 ## Tela de login
 
-![Tela_login](https://github.com/fernando-albsilva/JavaTrabalhoAcademicoCRUDav2/blob/master/ProtitipoTela/TelaLogin.png)  
+![Tela_login](https://github.com/fernando-albsilva/JavaTrabalhoAcademicoCRUDav2/blob/main/ProtitipoTela/TelaLogin.png)  
              
 ## Tela Inicial
 
